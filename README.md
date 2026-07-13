@@ -8,3 +8,13 @@ Deep learning
 - https://github.com/IRMVLab/DSLO (2024, arXiv, [[BIB]](https://github.com/MapsHD/HDMapping/blob/main/bib/DSLO.bib), DNN model not available)
 - https://github.com/IRMVLab/TransLO (2023, AAAI, [[BIB]](https://github.com/MapsHD/HDMapping/blob/main/bib/TransLO.bib))
 - https://github.com/IRMVLab/PWCLONet (2021, IEEE/CVF CVPR, [[BIB]](https://github.com/MapsHD/HDMapping/blob/main/bib/PWCLO-Net.bib))
+
+
+https://github.com/mikacuy/pointnetvlad
+https://github.com/Suoivy/LPD-net
+https://github.com/csiro-robotics/LoGG3D-Net
+https://github.com/jac99/MinkLoc3D
+https://github.com/haomo-ai/OverlapTransformer
+https://github.com/robot-learning-freiburg/LCDNet
+https://github.com/slothfulxtx/TransLoc3D
+https://github.com/chengwei920412/DiSCO-pytorch-loop_closing
