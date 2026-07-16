@@ -8,10 +8,10 @@ Deep learning
 | PointNetVLAD - MICHAL.W.| [CVPR 2018](https://arxiv.org/abs/1804.03492) | [GitHub](https://github.com/mikacuy/pointnetvlad) | 2018 | CVPR | Yes | 3D point cloud | LiDAR | N/A |
 | PCAN - OSKAR.B| [CVPR 2019](https://arxiv.org/abs/1904.09793) | [GitHub](https://github.com/XLechter/PCAN) | 2019 | CVPR | Yes | 3D point cloud | LiDAR | N/A |
 | LPD-Net - MICHAL.W.| [ICCV 2019](https://arxiv.org/abs/1812.07050) | [GitHub](https://github.com/Suoivy/LPD-net) | 2019 | ICCV | Yes | 3D point cloud | LiDAR | N/A |
-| DH3D - MARCIN.M.| [ECCV 2020](https://arxiv.org/abs/2007.09217) | [GitHub](https://github.com/JuanDuGit/DH3D) | 2020 | ECCV | Yes | 3D point cloud | LiDAR | N/A |
-| SegMap - KAROL.M | [RSS 2018 / IJRR](https://arxiv.org/abs/1804.09557) | [GitHub](https://github.com/ethz-asl/segmap) | 2020 | RSS / IJRR | Yes | 3D point cloud segments | LiDAR | ROS 1 (Indigo/Kinetic) |
-| OverlapNet - MICHAL.P| [RSS 2020](https://arxiv.org/abs/2105.11344) | [GitHub](https://github.com/PRBonn/OverlapNet) | 2020 | RSS | Yes | Range/normal/intensity images | LiDAR | N/A |
-| SG_PR - MAKSYMILIAN.K| [IROS 2020](https://arxiv.org/abs/2008.11459) | [GitHub](https://github.com/kxhit/SG_PR) | 2020 | IROS | Yes | Semantic graph | LiDAR | N/A |
+| DH3D | [ECCV 2020](https://arxiv.org/abs/2007.09217) | [GitHub](https://github.com/JuanDuGit/DH3D) | 2020 | ECCV | Yes | 3D point cloud | LiDAR | N/A |
+| SegMap | [RSS 2018 / IJRR](https://arxiv.org/abs/1804.09557) | [GitHub](https://github.com/ethz-asl/segmap) | 2020 | RSS / IJRR | Yes | 3D point cloud segments | LiDAR | ROS 1 (Indigo/Kinetic) |
+| OverlapNet [RSS 2020](https://arxiv.org/abs/2105.11344) | [GitHub](https://github.com/PRBonn/OverlapNet) | 2020 | RSS | Yes | Range/normal/intensity images | LiDAR | N/A |
+| SG_PR -  [IROS 2020](https://arxiv.org/abs/2008.11459) | [GitHub](https://github.com/kxhit/SG_PR) | 2020 | IROS | Yes | Semantic graph | LiDAR | N/A |
 | CrackFormer-II | [ICCV 2021 / TITS](https://ieeexplore.ieee.org/document/9694280) | [GitHub](https://github.com/LouisNUST/CrackFormer-II) | 2020 | ICCV / TITS | Yes | 2D images | Camera (RGB) | N/A |
 | PWCLO-Net | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_PWCLO-Net_Deep_LiDAR_Odometry_in_3D_Point_Clouds_Using_Hierarchical_CVPR_2021_paper.html) ([BIB](https://github.com/MapsHD/HDMapping/blob/main/bib/PWCLO-Net.bib)) | [GitHub](https://github.com/IRMVLab/PWCLONet) | 2021 | IEEE/CVF CVPR | Yes | 3D point cloud | LiDAR | N/A |
 | MinkLoc3D | [WACV 2021](https://arxiv.org/abs/2011.04530) | [GitHub](https://github.com/jac99/MinkLoc3D) | 2021 | WACV | Yes | 3D point cloud (sparse voxels) | LiDAR | N/A |
@@ -34,11 +34,11 @@ Deep learning
 | MFS-LO | [Elsevier RAS 2025](https://www.sciencedirect.com/science/article/abs/pii/S0921889025001903) ([BIB](https://github.com/MapsHD/HDMapping/blob/main/bib/MFS-LO.bib)) | No source code | 2025 | Elsevier RAS | No | 3D point cloud | LiDAR | N/A |
 | UnMinkLO-Net | [MDPI Remote Sensing 2025](https://www.mdpi.com/2072-4292/17/15/2661) ([BIB](https://github.com/MapsHD/HDMapping/blob/main/bib/UnMinkLO-Net.bib)) | — | 2025 | MDPI Remote Sensing | No (DNN model not available) | 3D point cloud (sparse voxels) | LiDAR | N/A |
 | HOTFormerLoc | [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Griffiths_HOTFormerLoc_Hierarchical_Octree_Transformer_for_Versatile_Lidar_Place_Recognition_Across_CVPR_2025_paper.pdf) | [GitHub](https://github.com/csiro-robotics/HOTFormerLoc) | 2025 | CVPR | Yes | 3D point cloud (octree) | LiDAR | N/A |
-| DiffLO | [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_DiffLO_Semantic-Aware_LiDAR_Odometry_with_Diffusion-Based_Refinement_CVPR_2025_paper.pdf) | [GitHub](https://github.com/HyTree7/DiffLO) | 2025 | CVPR | No (code to be released) | 3D point cloud | LiDAR | N/A |
-| OverlapMamba | [RAL 2025](https://doi.org/10.1109/lra.2025.3582109) | [GitHub](https://github.com/SCNU-RISLAB/OverlapMamba) | 2025 | RA-L | Yes | Range images | LiDAR | N/A |
-| SemanticLoopClosure (GAT) | [JINT 2025](https://doi.org/10.1007/s10846-025-02223-6) | [GitHub](https://github.com/crepuscularlight/SemanticLoopClosure) | 2025 | J. Intell. Robot. Syst. | Yes | Semantic graph | LiDAR | N/A |
+| DiffLO MICHAL.P | [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_DiffLO_Semantic-Aware_LiDAR_Odometry_with_Diffusion-Based_Refinement_CVPR_2025_paper.pdf) | [GitHub](https://github.com/HyTree7/DiffLO) | 2025 | CVPR | No (code to be released) | 3D point cloud | LiDAR | N/A |
+| OverlapMamba - MAKSYMILIAN.K|| [RAL 2025](https://doi.org/10.1109/lra.2025.3582109) | [GitHub](https://github.com/SCNU-RISLAB/OverlapMamba) | 2025 | RA-L | Yes | Range images | LiDAR | N/A |
+| SemanticLoopClosure (GAT)  - KAROL.M | [JINT 2025](https://doi.org/10.1007/s10846-025-02223-6) | [GitHub](https://github.com/crepuscularlight/SemanticLoopClosure) | 2025 | J. Intell. Robot. Syst. | Yes | Semantic graph | LiDAR | N/A |
 | MBRNet | [Eng. Res. Express 2025](https://iopscience.iop.org/article/10.1088/2631-8695/ae024a) | — | 2025 | Eng. Res. Express (IOP) | No | Range + BEV (multi-view) | LiDAR | N/A |
-| RegFormer++ | [arXiv 2026](https://arxiv.org/abs/2603.14290) | [GitHub](https://github.com/IRMVLab/RegFormer) | 2026 | arXiv | Partial (RegFormer base) | 3D point cloud (cylindrical proj.) | LiDAR | N/A |
+| RegFormer++ - MARCIN.M. | [arXiv 2026](https://arxiv.org/abs/2603.14290) | [GitHub](https://github.com/IRMVLab/RegFormer) | 2026 | arXiv | Partial (RegFormer base) | 3D point cloud (cylindrical proj.) | LiDAR | N/A |
 | PinNet | [arXiv 2026](https://arxiv.org/html/2606.28637) | — | 2026 | arXiv | No | 3D point cloud (local descriptors) | LiDAR | N/A |
 | MPTF-Net | [arXiv 2026](https://arxiv.org/html/2604.04513) | — | 2026 | arXiv | No | Range + NDT-BEV (multi-view) | LiDAR | N/A |
 | YawPR-Net | [Meas. Sci. Technol. 2026](https://iopscience.iop.org/article/10.1088/1361-6501/ae61dc) | — | 2026 | Meas. Sci. Technol. | No | 3D point cloud | LiDAR | N/A |
