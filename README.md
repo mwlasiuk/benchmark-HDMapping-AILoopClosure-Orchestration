@@ -5,13 +5,13 @@ Deep learning
 
 | Name | Paper | Code | Year | Conference/Venue | Model available | Input data type | Sensor used | ROS version |
 |------|-------|------|------|------------------|-----------------|-----------------|-------------|-------------|
-| PointNetVLAD | [CVPR 2018](https://arxiv.org/abs/1804.03492) | [GitHub](https://github.com/mikacuy/pointnetvlad) | 2018 | CVPR | Yes | 3D point cloud | LiDAR | N/A |
-| PCAN | [CVPR 2019](https://arxiv.org/abs/1904.09793) | [GitHub](https://github.com/XLechter/PCAN) | 2019 | CVPR | Yes | 3D point cloud | LiDAR | N/A |
-| LPD-Net | [ICCV 2019](https://arxiv.org/abs/1812.07050) | [GitHub](https://github.com/Suoivy/LPD-net) | 2019 | ICCV | Yes | 3D point cloud | LiDAR | N/A |
-| DH3D | [ECCV 2020](https://arxiv.org/abs/2007.09217) | [GitHub](https://github.com/JuanDuGit/DH3D) | 2020 | ECCV | Yes | 3D point cloud | LiDAR | N/A |
-| SegMap | [RSS 2018 / IJRR](https://arxiv.org/abs/1804.09557) | [GitHub](https://github.com/ethz-asl/segmap) | 2020 | RSS / IJRR | Yes | 3D point cloud segments | LiDAR | ROS 1 (Indigo/Kinetic) |
-| OverlapNet | [RSS 2020](https://arxiv.org/abs/2105.11344) | [GitHub](https://github.com/PRBonn/OverlapNet) | 2020 | RSS | Yes | Range/normal/intensity images | LiDAR | N/A |
-| SG_PR | [IROS 2020](https://arxiv.org/abs/2008.11459) | [GitHub](https://github.com/kxhit/SG_PR) | 2020 | IROS | Yes | Semantic graph | LiDAR | N/A |
+| PointNetVLAD - MICHAL.W.| [CVPR 2018](https://arxiv.org/abs/1804.03492) | [GitHub](https://github.com/mikacuy/pointnetvlad) | 2018 | CVPR | Yes | 3D point cloud | LiDAR | N/A |
+| PCAN - OSKAR.B| [CVPR 2019](https://arxiv.org/abs/1904.09793) | [GitHub](https://github.com/XLechter/PCAN) | 2019 | CVPR | Yes | 3D point cloud | LiDAR | N/A |
+| LPD-Net - MICHAL.W.| [ICCV 2019](https://arxiv.org/abs/1812.07050) | [GitHub](https://github.com/Suoivy/LPD-net) | 2019 | ICCV | Yes | 3D point cloud | LiDAR | N/A |
+| DH3D - MARCIN.M.| [ECCV 2020](https://arxiv.org/abs/2007.09217) | [GitHub](https://github.com/JuanDuGit/DH3D) | 2020 | ECCV | Yes | 3D point cloud | LiDAR | N/A |
+| SegMap - KAROL.M | [RSS 2018 / IJRR](https://arxiv.org/abs/1804.09557) | [GitHub](https://github.com/ethz-asl/segmap) | 2020 | RSS / IJRR | Yes | 3D point cloud segments | LiDAR | ROS 1 (Indigo/Kinetic) |
+| OverlapNet - MICHAL.P| [RSS 2020](https://arxiv.org/abs/2105.11344) | [GitHub](https://github.com/PRBonn/OverlapNet) | 2020 | RSS | Yes | Range/normal/intensity images | LiDAR | N/A |
+| SG_PR - MAKSYMILIAN.K| [IROS 2020](https://arxiv.org/abs/2008.11459) | [GitHub](https://github.com/kxhit/SG_PR) | 2020 | IROS | Yes | Semantic graph | LiDAR | N/A |
 | CrackFormer-II | [ICCV 2021 / TITS](https://ieeexplore.ieee.org/document/9694280) | [GitHub](https://github.com/LouisNUST/CrackFormer-II) | 2020 | ICCV / TITS | Yes | 2D images | Camera (RGB) | N/A |
 | PWCLO-Net | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_PWCLO-Net_Deep_LiDAR_Odometry_in_3D_Point_Clouds_Using_Hierarchical_CVPR_2021_paper.html) ([BIB](https://github.com/MapsHD/HDMapping/blob/main/bib/PWCLO-Net.bib)) | [GitHub](https://github.com/IRMVLab/PWCLONet) | 2021 | IEEE/CVF CVPR | Yes | 3D point cloud | LiDAR | N/A |
 | MinkLoc3D | [WACV 2021](https://arxiv.org/abs/2011.04530) | [GitHub](https://github.com/jac99/MinkLoc3D) | 2021 | WACV | Yes | 3D point cloud (sparse voxels) | LiDAR | N/A |
