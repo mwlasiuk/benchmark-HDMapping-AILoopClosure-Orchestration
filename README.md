@@ -18,8 +18,7 @@ Deep learning
 | OverlapMamba - MAKSYMILIAN.K | [RAL 2025](https://doi.org/10.1109/lra.2025.3582109) | [GitHub](https://github.com/SCNU-RISLAB/OverlapMamba) | 2025 | RA-L | Yes | Range images | LiDAR | N/A |
 | SemanticLoopClosure (GAT)  - KAROL.M | [JINT 2025](https://doi.org/10.1007/s10846-025-02223-6) | [GitHub](https://github.com/crepuscularlight/SemanticLoopClosure) | 2025 | J. Intell. Robot. Syst. | Yes | Semantic graph | LiDAR | N/A |
 | MBRNet | [Eng. Res. Express 2025](https://iopscience.iop.org/article/10.1088/2631-8695/ae024a) | — | 2025 | Eng. Res. Express (IOP) | No | Range + BEV (multi-view) | LiDAR | N/A |
-| DSLO | [2024](https://arxiv.org/abs/2409.00744) ([BIB](https://github.com/MapsHD/HDMapping/blob/main/bib/DSLO.bib)) | [GitHub](https://github.com/IRMVLab/DSLO) | 2024 | arXiv | No (DNN model 
-not available) | 3D point cloud | LiDAR | N/A |
+| DSLO | [2024](https://arxiv.org/abs/2409.00744) ([BIB](https://github.com/MapsHD/HDMapping/blob/main/bib/DSLO.bib)) | [GitHub](https://github.com/IRMVLab/DSLO) | 2024 | arXiv | No (DNN model not available) | 3D point cloud | LiDAR | N/A |
 | TransLO | [AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25256) ([BIB](https://github.com/MapsHD/HDMapping/blob/main/bib/TransLO.bib)) | [GitHub](https://github.com/IRMVLab/TransLO) | 2023 | AAAI | Yes | 3D point cloud | LiDAR | N/A |
 | CrossLoc3D | [ICCV 2023](https://arxiv.org/abs/2303.17778) | [GitHub](https://github.com/rayguan97/crossloc3d) | 2023 | ICCV | Yes | 3D point cloud (cross-source) | LiDAR | N/A |
 | MinkLoc3Dv2 | [ICPR 2022](https://arxiv.org/abs/2203.00972) | [GitHub](https://github.com/jac99/MinkLoc3Dv2) | 2022 | ICPR | Yes | 3D point cloud (sparse voxels) | LiDAR | N/A |
