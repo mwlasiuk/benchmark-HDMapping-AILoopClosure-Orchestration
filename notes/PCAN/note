@@ -1,0 +1,6 @@
+General Decision: Don't use
+
+1. PCAN's repo was last updated in 2019, without leaving any specification of packages - hence environment could be faulty and produce silent errors
+2. PCAN operates on tensorflow < 2.0, which is (opinion) not usable by todays standards. Authors deliver Pytorch version, but it's already different model and idea (2022)
+3. Repository has dependencies from matlab
+4. Pretrained weights delivered by authors are faulty (still probably because of environment mismatch). 
